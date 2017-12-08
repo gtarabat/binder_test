@@ -1,2 +1,2 @@
 matplotlib==2.1.0
--e git+https://github.com/Project-Platypus/Platypus.git@2f8f460989e7564eecc8cb7cc517fb966158b4bd#egg=Platypus
+https://github.com/Project-Platypus/Platypus
