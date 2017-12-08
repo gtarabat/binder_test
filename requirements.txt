@@ -1,2 +1,2 @@
 matplotlib==2.1.0
-platypus
+platypus==0.1
